@@ -14,7 +14,7 @@ FS-Manager Viewer is a free tool for viewing and analyzing NTFS permissions, Sha
 - **View FSRM Quotas** - Check disk quota settings and usage
 - **User/Group Search** - Find all permissions for specific users or groups
 - **Export to CSV** - Export permission data for reporting and compliance
-- **Permission History** - View change logs
+- **Permission History** - View FS-Manager change logs
 - **Smart Indexing** - Fast permission scanning with caching
 - **Tree Navigation** - Browse shares and folders with filtering
 

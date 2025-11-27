@@ -6,6 +6,8 @@
 
 FS-Manager Viewer is a free tool for viewing and analyzing NTFS permissions, Share permissions, and FSRM Quotas on Windows file servers. Perfect for auditing, compliance reporting, and permission analysis.
 
+<img width="1236" height="743" alt="Snimka zaslona 2025-11-27 115937" src="https://github.com/user-attachments/assets/637c3f9a-68ad-4321-8e68-fb439f4ef94f" />
+
 ## Features
 
 ### ✅ Included in Viewer (Free)

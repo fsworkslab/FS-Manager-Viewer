@@ -1,3 +1,7 @@
+![Made with PowerShell](https://img.shields.io/badge/Made%20with-PowerShell-012456?logo=powershell&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![Status](https://img.shields.io/badge/Status-Stable-success)
+![License](https://img.shields.io/badge/License-Free%20Viewer-lightgrey)
 # FS-Manager Viewer v1.0
 
 **Free Read-Only File System Permissions Viewer**

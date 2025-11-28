@@ -38,9 +38,10 @@ For full modification capabilities, upgrade to **FS-Manager Pro**:
 ## Installation
 
 1. Extract all files to a folder (e.g., `C:\Tools\FSManager-Viewer\`)
-2. Run `Launch.bat` as Administrator, or:
-   - Right-click `FS-Manager.ps1` → "Run with PowerShell"
-   - Select "Run as Administrator" when prompted
+2. Right-click on INSTALL.bat and select "Run as administrator"
+3. Follow the on-screen prompts
+4. Launch from desktop shortcut or Start menu
+
 
 ## System Requirements
 

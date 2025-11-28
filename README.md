@@ -20,15 +20,15 @@ FS-Manager Viewer is a free tool for viewing and analyzing NTFS permissions, Sha
 - **View FSRM Quotas** - Check disk quota settings and usage
 - **User/Group Search** - Find all permissions for specific users or groups
 - **Export to CSV** - Export permission data for reporting and compliance
-- **Permission History** - View FS-Manager change logs
+- **Permission History** - View FS-Manager Pro change logs
 - **Smart Indexing** - Fast permission scanning with caching
 - **Tree Navigation** - Browse shares and folders with filtering
-- 
+
 <img width="1238" height="746" alt="Snimka zaslona 2025-11-28 114219" src="https://github.com/user-attachments/assets/54b35c72-721f-456f-8e34-17cbd57449f8" />
 <img width="1234" height="737" alt="Snimka zaslona 2025-11-28 114248" src="https://github.com/user-attachments/assets/2c1a059c-5714-4f60-b028-7acc3618d27d" />
 <img width="933" height="486" alt="Snimka zaslona 2025-11-28 114318" src="https://github.com/user-attachments/assets/3315d079-16d1-457c-9dad-3620329e611e" />
 
-### 🔒 Pro Version Only
+### 🔒 Pro Version Only **[Get FS-Manager Pro](https://fsworks2.gumroad.com/l/fsmanager-pro)**
 For full modification capabilities, upgrade to **FS-Manager Pro**:
 - Add/Remove NTFS permissions
 - Add/Remove Share permissions
@@ -55,6 +55,7 @@ For full modification capabilities, upgrade to **FS-Manager Pro**:
 - .NET Framework 4.7.2+
 
 ### Optional Components
+
 - **FSRM** (File Server Resource Manager) - For quota viewing
 - **Active Directory Module** - For enhanced user/group resolution
 

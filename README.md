@@ -64,7 +64,7 @@ For full modification capabilities, upgrade to **FS-Manager Pro**:
 
 ## Support
 
-- **Email**: fworks-support@proton.me
+- **Email**: fsworks-support@proton.me
 - **Pro Version**: https://fsworks2.gumroad.com/l/fsmanager-pro
 
 ## License

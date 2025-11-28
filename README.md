@@ -23,6 +23,10 @@ FS-Manager Viewer is a free tool for viewing and analyzing NTFS permissions, Sha
 - **Permission History** - View FS-Manager change logs
 - **Smart Indexing** - Fast permission scanning with caching
 - **Tree Navigation** - Browse shares and folders with filtering
+- 
+<img width="1238" height="746" alt="Snimka zaslona 2025-11-28 114219" src="https://github.com/user-attachments/assets/54b35c72-721f-456f-8e34-17cbd57449f8" />
+<img width="1234" height="737" alt="Snimka zaslona 2025-11-28 114248" src="https://github.com/user-attachments/assets/2c1a059c-5714-4f60-b028-7acc3618d27d" />
+<img width="933" height="486" alt="Snimka zaslona 2025-11-28 114318" src="https://github.com/user-attachments/assets/3315d079-16d1-457c-9dad-3620329e611e" />
 
 ### 🔒 Pro Version Only
 For full modification capabilities, upgrade to **FS-Manager Pro**:
